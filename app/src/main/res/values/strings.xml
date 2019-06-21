@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nhanh như chớp</string>
+    <string name="replay_btn">CHƠI LẠI</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="start">0</string>
+    <string name="game_winner">XIN CHÚC MỪNG</string>
+    <string name="saverButton">TRỢ GIÚP</string>
+    <string name="troGiup1">Đổi câu hỏi</string>
+    <string name="troGiup2">Thêm kiếp</string>
+    <string name="troGiup3">50/50</string>
+    <string name="troGiup4">Gọi cho người thân</string>
+    <string name="troGiup5">Khán giả</string>
+    <string name="troGiup6">Tổ tư vấn</string>
+    <string name="startGameButton">BẮT ĐẦU</string>
+    <string name="appName">NHANH NHƯ CHỚP</string>
+    <string name="troGiup7">Thêm thời gian</string>
+    <string name="okBtn">OK</string>
+    <string name="hintTimeSaver">Nhập số thời gian muốn thêm</string>
+    <string name="comeBack_btn">về menu chính</string>
+    <string name="setting_btn">cài đặt</string>
+    <string name="record_btn">xem điểm cao</string>
+</resources>
